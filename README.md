@@ -457,8 +457,6 @@ Para uso local, os valores padrões do `docker-compose.yml` já são suficientes
 
 Este projeto pode ser distribuído sob a licença **MIT**.
 
-Sugestão: adicione um arquivo `LICENSE` na raiz do projeto com o texto da licença MIT.
-
 ---
 
 ## 👨‍💻 Autor
